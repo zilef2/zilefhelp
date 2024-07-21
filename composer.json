@@ -1,0 +1,11 @@
+{
+    "name": "zilef/myhelp",
+    "description": "Un paquete de ayuda para mis proyectos",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "src/"
+        }
+    }
+}
